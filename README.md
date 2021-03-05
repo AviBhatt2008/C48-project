@@ -1,2 +1,2 @@
-# C48-project
-Not fully finished but trying to fix error
+# p5.play-boilerplate
+Boiler plate for p5.play
